@@ -1,1 +1,1 @@
-                                                          GLB_CODING LeetCode Problems
+                                              GLB_CODING LeetCode Problems
